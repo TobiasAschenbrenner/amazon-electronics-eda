@@ -103,8 +103,8 @@ All plots are saved in the `outputs/figures` directory.
 1. **Clone the repository**
 
 2. **Install dependencies**
-   ```bash
-       pip install -r requirements.txt
+   ```
+   pip install -r requirements.txt
    ```
 3. **Run the scripts in order**
 
