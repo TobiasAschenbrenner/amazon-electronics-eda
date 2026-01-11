@@ -101,9 +101,7 @@ All plots are saved in the `outputs/figures` directory.
 ## How to Run the Project
 
 1. **Clone the repository**
-   ```bash
-       git clone <repository-url>
-   ```
+
 2. **Install dependencies**
    ```bash
        pip install -r requirements.txt
